@@ -1,0 +1,15 @@
+githubから資材を持ってくる
+git clone ○○(URL)
+
+ファイルを加える
+git add start.txt(ファイル名)
+
+ファイルをコミット
+git commit -m "コメント"
+
+ステータスを確認
+git status
+
+ファイルをgithubにpush
+git push origin master
+
